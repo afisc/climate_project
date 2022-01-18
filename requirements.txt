@@ -1,0 +1,5 @@
+jupyter
+numpy
+xarray
+matplotlib
+cartopy
